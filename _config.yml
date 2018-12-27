@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CHANGELOG.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - LICENSE
+  - PULL_REQUEST_TEMPLATE.md
+  - README.md

@@ -11,3 +11,5 @@ include:
   - LICENSE
   - PULL_REQUEST_TEMPLATE.md
   - README.md
+
+theme: jekyll-theme-architect

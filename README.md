@@ -1,6 +1,6 @@
 # Hacking Historical Texts
 
-{% include nootnav.md %}
+{% include rootnav.md %}
 
 ![Title Image](assets/intro-image.png)
 

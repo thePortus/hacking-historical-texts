@@ -1,5 +1,7 @@
 # Hacking Historical Texts
 
+![Title Image](assets/intro-image.png)
+
 ## Instructor and Author
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
@@ -10,8 +12,6 @@ Department of History<br />
 ## Textbook
 
 Graham, Shawn, Ian Milligan, and Scott Weingart. [*Exploring Big Historical Data: The Historian's Macroscope*](https://www.amazon.com/Exploring-Big-Historical-Data-Historians/dp/1783266376), London: Imperial College Press, 2016.
-
-![Title Image](assets/intro-image.png)
 
 ## Summary
 

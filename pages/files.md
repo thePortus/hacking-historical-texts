@@ -1,6 +1,6 @@
 # Sample Data Files
 
-{% include nav.md %}
+{% include nav.html %}
 
 These files are intended to be used with in-class activity. These files were all obtained/edited/created by myself using techniques discussed in this class. The raw data, however, comes from elsewhere. **Please do not distribute.**
 

@@ -1,6 +1,6 @@
 # Class Schedule
 
-{% include nav.md %}
+{% include nav.html %}
 
 ### Week 1: What are the Digital Humanities?
 

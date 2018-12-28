@@ -1,6 +1,6 @@
 # Setup
 
-{% include nav.md %}
+{% include nav.html %}
 
 This page contains brief instructions on how to install the core applications that we will use in this course. During the course, these tools will be introduced slowly, and you will not be expected to become proficient in all or even most of these tools.
 

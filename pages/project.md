@@ -1,6 +1,6 @@
 # Project Assignments
 
-{% include nav.md %}
+{% include nav.html %}
 
 ## Past Project Examples
 

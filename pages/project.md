@@ -1,10 +1,3 @@
----
-layout: page
-title: Hacking Historical Texts
-tagline: Use digital methods to explore historical documents in new ways.
-description: Course workbook for Hacking History (HIS4396) at the University of South Florida
----
-
 # Project Assignments
 
 ---

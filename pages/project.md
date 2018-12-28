@@ -1,16 +1,6 @@
 # Project Assignments
 
----
-
-## Nagivation
-
-* [Setup](setup.md)
-* [Lessons](lessons.md)
-* [Files](files.md)
-* [Project](project.md)
-* [Toolkit](toolkit.md)
-
----
+{% include nav.md %}
 
 ## Past Project Examples
 

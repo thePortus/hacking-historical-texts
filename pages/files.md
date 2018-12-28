@@ -1,16 +1,6 @@
 # Sample Data Files
 
----
-
-## Nagivation
-
-* [Setup](setup.md)
-* [Lessons](lessons.md)
-* [Files](files.md)
-* [Project](project.md)
-* [Toolkit](toolkit.md)
-
----
+{% include nav.md %}
 
 These files are intended to be used with in-class activity. These files were all obtained/edited/created by myself using techniques discussed in this class. The raw data, however, comes from elsewhere. **Please do not distribute.**
 

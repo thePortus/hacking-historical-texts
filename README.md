@@ -1,5 +1,7 @@
 # Hacking Historical Texts
 
+{% include nootnav.md %}
+
 ![Title Image](assets/intro-image.png)
 
 ## Instructor and Author
@@ -20,11 +22,3 @@ Learn to do research digitally, employing technology to pose questions previousl
 Make a dynamic map of New York City, displaying the evolving ethnic composition of its neighborhoods over the last century. Scan a diary, convert it to computer-readable text and use the results to map the changing topics and word choices of a historical source over a period of decades. Use network analysis tools to make an interactive social map of the individuals involved in national labor disputes. These are just a few examples of the results possible entirely with free online tools and sources.
 
 Beyond new techniques, students will first encounter some of the major scholarly issues of the field. We will explore the limitations and dangers digital methods, asking: to what extent can data be objective? Students will create one individual digital project, and one as a class.
-
-## Nagivation
-
-* [Setup](pages/setup.md)
-* [Lessons](pages/lessons.md)
-* [Files](pages/files.md)
-* [Project](pages/project.md)
-* [Toolkit](pages/toolkit.md)

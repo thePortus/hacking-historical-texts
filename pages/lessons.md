@@ -1,16 +1,6 @@
 # Class Schedule
 
----
-
-## Nagivation
-
-* [Setup](setup.md)
-* [Lessons](lessons.md)
-* [Files](files.md)
-* [Project](project.md)
-* [Toolkit](toolkit.md)
-
----
+{% include nav.md %}
 
 ### Week 1: What are the Digital Humanities?
 

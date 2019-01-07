@@ -2,6 +2,10 @@
 
 ![Title Image](assets/intro-image.png)
 
+**[View the Course Workbook Website Here](https://theportus.github.io/hacking-historical-texts/)**
+
+---
+
 ## Instructor and Author
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />

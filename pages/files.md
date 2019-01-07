@@ -1,6 +1,17 @@
 # Sample Data Files
 
-{% include nav.html %}
+<figure>
+    <p>
+        <a href="{{site.baseurl}}/index.html">Home</a> |
+        <a href="{{site.baseurl}}/setup.html"Setup></a> |
+        <a href="{{site.baseurl}}/lessons.html">Lessons</a> |
+        <a href="{{site.baseurl}}/files.html">Files</a> |
+        <a href="{{site.baseurl}}/project.html">Project</a> |
+        <a href="{{site.baseurl}}/toolkit.html">Toolkit</a>
+    </p>
+</figure>
+
+---
 
 These files are intended to be used with in-class activity. These files were all obtained/edited/created by myself using techniques discussed in this class. The raw data, however, comes from elsewhere. **Please do not distribute.**
 

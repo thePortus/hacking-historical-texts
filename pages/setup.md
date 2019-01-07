@@ -1,6 +1,17 @@
 # Setup
 
-{% include nav.html %}
+<figure>
+    <p>
+        <a href="{{site.baseurl}}/index.html">Home</a> |
+        <a href="{{site.baseurl}}/setup.html"Setup></a> |
+        <a href="{{site.baseurl}}/lessons.html">Lessons</a> |
+        <a href="{{site.baseurl}}/files.html">Files</a> |
+        <a href="{{site.baseurl}}/project.html">Project</a> |
+        <a href="{{site.baseurl}}/toolkit.html">Toolkit</a>
+    </p>
+</figure>
+
+---
 
 This page contains brief instructions on how to install the core applications that we will use in this course. During the course, these tools will be introduced slowly, and you will not be expected to become proficient in all or even most of these tools.
 

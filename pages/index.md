@@ -1,7 +1,5 @@
 # Hacking Historical Texts
 
-{% include nav.html %}
-
 ![Title Image](assets/intro-image.png)
 
 ## Instructor and Author
@@ -10,6 +8,21 @@
 Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
+
+---
+
+<figure>
+    <p>
+        <a href="{{site.baseurl}}/index.html">Home</a> |
+        <a href="{{site.baseurl}}/setup.html"Setup></a> |
+        <a href="{{site.baseurl}}/lessons.html">Lessons</a> |
+        <a href="{{site.baseurl}}/files.html">Files</a> |
+        <a href="{{site.baseurl}}/project.html">Project</a> |
+        <a href="{{site.baseurl}}/toolkit.html">Toolkit</a>
+    </p>
+</figure>
+
+---
 
 ## Textbook
 

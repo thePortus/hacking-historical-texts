@@ -1,7 +1,5 @@
 # Hacking Historical Texts
 
-{% include nav.html %}
-
 ![Title Image](assets/intro-image.png)
 
 ## Instructor and Author

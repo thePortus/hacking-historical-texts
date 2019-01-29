@@ -13,12 +13,12 @@ Department of History<br />
 
 <figure>
     <p>
-        <a href="{{site.baseurl}}/pages/index.html">Home</a> |
-        <a href="{{site.baseurl}}/pages//setup.html">Setup</a> |
-        <a href="{{site.baseurl}}/pages//lessons.html">Lessons</a> |
-        <a href="{{site.baseurl}}/pages//files.html">Files</a> |
-        <a href="{{site.baseurl}}/pages//project.html">Project</a> |
-        <a href="{{site.baseurl}}/pages//toolkit.html">Toolkit</a>
+        <a href="{{site.baseurl}}/index.html">Home</a> |
+        <a href="{{site.baseurl}}/pages/setup.html">Setup</a> |
+        <a href="{{site.baseurl}}/pages/lessons.html">Lessons</a> |
+        <a href="{{site.baseurl}}/pages/files.html">Files</a> |
+        <a href="{{site.baseurl}}/pages/project.html">Project</a> |
+        <a href="{{site.baseurl}}/pages/toolkit.html">Toolkit</a>
     </p>
 </figure>
 

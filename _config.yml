@@ -14,4 +14,4 @@ include:
   - LICENSE
   - PULL_REQUEST_TEMPLATE.md
   - README.md
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-dinky

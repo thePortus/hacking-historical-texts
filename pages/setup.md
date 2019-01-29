@@ -21,8 +21,7 @@ You can install them all at once, or gradually over the course. Feel free to pla
 2. [Atom Text Editor](#2-atom-text-editor)
 3. [Slack Team Messenger](#3-slack-team-messenger)
 4. [Tableau Visualization Platform](#4-tableau-visualization-platform)
-5. [Google OpenRefine Data Scrubber](#5-google-openrefine-data-scrubber)
-6. [Optional Atom Packages & Themes](#6-atom-packages-and-themes)
+5. [Optional Atom Packages & Themes](#6-atom-packages-and-themes)
 
 ---
 
@@ -84,13 +83,6 @@ process.env.PATH = ['/usr/local/bin/', process.env.PATH].join(':')
 
 1. [Sign up for a student account](https://www.tableau.com/academic) (assuming you are a student), and then follow the instructions to install Tableau Desktop.
 2. You will be able to use a 14-day trial, during which they will contact you with details for free access for a *full year.*
-
----
-
-## 5 Google OpenRefine Data Scrubber
-
-1. Head to [OpenRefine](http://openrefine.org/) and download the application.
-2. You have to manually move the application to the location where you want to install it.
 
 ---
 

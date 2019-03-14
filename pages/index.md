@@ -14,7 +14,7 @@ Department of History<br />
 <figure>
     <p>
         <a href="{{site.baseurl}}/index.html">Home</a> |
-        <a href="{{site.baseurl}}/setup.html"Setup></a> |
+        <a href="{{site.baseurl}}/setup.html">Setup</a> |
         <a href="{{site.baseurl}}/lessons.html">Lessons</a> |
         <a href="{{site.baseurl}}/files.html">Files</a> |
         <a href="{{site.baseurl}}/project.html">Project</a> |

@@ -14,6 +14,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - README.md
 theme: jekyll-theme-dinky
-source: pages
-collections_dir: pages
-includes_dir: pages/_includes
+source: ./pages
+collections_dir: ./pages
+includes_dir: _includes

@@ -1,6 +1,6 @@
 # Hacking Historical Texts
 
-![Title Image](assets/intro-image.png)
+![Title Image](assets/images/intro-image.png)
 
 **[View the Course Workbook Website Here](https://theportus.github.io/hacking-historical-texts/)**
 

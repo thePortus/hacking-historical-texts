@@ -11,7 +11,7 @@ Below is a large list of tools arranged by topic if you want to explore either f
 * [Overview Docs](https://www.overviewdocs.com/) - Text Analysis
 * [Voyant](https://voyant-tools.org/) - Text Analysis
 * [Palladio](http://hdlab.stanford.edu/palladio/#/) - Data Visualization
-* [Raw](http://app.raw.densitydesign.org/) - Data Visualiization
+* [Raw](http://app.raw.densitydesign.org/) - Data Visualization
 * [Fusion Tables](http://tables.googlelabs.com/) - Data Visualization
 * [Breve](http://breve.designhumanities.org/) - Data Visualization/Cleaning
 

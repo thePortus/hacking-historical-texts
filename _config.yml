@@ -13,7 +13,7 @@ include:
   - LICENSE
   - PULL_REQUEST_TEMPLATE.md
   - README.md
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 source: ./pages
 collections_dir: ./pages
 includes_dir: _includes

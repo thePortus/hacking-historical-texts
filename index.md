@@ -1,6 +1,6 @@
 # Hacking Historical Texts
 
-![Title Image]({{site.url}}/assets/intro-image.png)
+![Title Image]({{ site.url }}/assets/intro-image.png)
 
 ## Instructor and Author
 

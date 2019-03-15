@@ -1,6 +1,8 @@
 # Hacking Historical Texts
 
-![Title Image]({{ site.baseurl }}/assets/intro-image.png)
+{% include css.html %}
+
+![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
 
 ## Instructor and Author
 

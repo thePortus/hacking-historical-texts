@@ -1,5 +1,7 @@
 # Class Schedule
 
+{% include css.html %}
+
 {% include nav.html %}
 
 ---

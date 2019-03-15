@@ -1,5 +1,7 @@
 # Setup
 
+{% include css.html %}
+
 {% include nav.html %}
 
 ---

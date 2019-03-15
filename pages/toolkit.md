@@ -1,5 +1,7 @@
 # Data-Driven Scholar's Toolkit
 
+{% include css.html %}
+
 {% include nav.html %}
 
 ---

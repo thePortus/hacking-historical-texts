@@ -1,5 +1,7 @@
 # Project Assignments
 
+{% include css.html %}
+
 {% include nav.html %}
 
 ---

@@ -1,5 +1,7 @@
 # Sample Data Files
 
+{% include css.html %}
+
 {% include nav.html %}
 
 ---

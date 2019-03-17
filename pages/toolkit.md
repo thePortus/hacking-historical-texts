@@ -14,4 +14,8 @@ Below is a large list of tools arranged by topic if you want to explore either f
 
 # {{ category.name }}
 
+{% for item in category.items %}
+* [{{ item.name }}]({{ item.link }}) - {{ item.description }}
+{% endfor %}
+
 {% endfor %}

@@ -1,0 +1,101 @@
+-   name: Text Analysis
+    items:
+        -   name: Overview Docs
+            link: https://www.overviewdocs.com/
+            description: Text Analysis
+            recommend: TRUE
+            status: Online/Free
+        -   name: Voyant
+            link: https://voyant-tools.org/
+            description: Text Analysis
+            recommend: FALSE
+            status: Online/Free
+        -   name: WordSmith
+            link: http://www.lexically.net/wordsmith/
+            description: Text Concordance Tool for Windows
+            recommend: FALSE
+            status: Commercial
+-   name: Data Visualization
+    items:
+        -   name: Tableau Academic
+            link: http://www.tableau.com/academic
+            description: Professional Data Visualization Platform
+            recommend: TRUE
+            status: Commercial
+        -   name: Palladio
+            link: http://hdlab.stanford.edu/palladio/#/
+            description: Data Visualization
+            recommend: FALSE
+            status: Online/Free
+        -   name: Raw
+            link: http://app.raw.densitydesign.org/
+            description: Data Visualization
+            recommend: FALSE
+            status: Online/Free
+-   name: Getting/Cleaning Data
+    items:
+        -   name: Breve
+            link: http://breve.designhumanities.org/
+            description: Data Visualization/Cleaning
+            recommend: FALSE
+            status: Online/Free
+-   name: Modeling and Spatial Analysis
+    items:
+        -   name: QGIS
+            link: http://www.qgis.org/
+            description: GIS/Mapping
+            recommend: TRUE
+            status: Open Source
+        -   name: SketchUp
+            link: http://www.qgis.org/
+            description: GIS/Mapping
+            recommend: TRUE
+            status: Free & Commercial
+-   name: Networks
+    items:
+        -   name: Gephi
+            link: https://www.gephi.org/
+            description: Network Analysis
+            recommend: TRUE
+            status: Open Source
+-   name: Graphics
+    items:
+        -   name: QGIS
+            link: http://www.qgis.org/
+            description: GIS/Mapping
+            recommend: TRUE
+            status: Open Source
+-   name: Other
+    items:
+        -   name: Atom Text
+            link: https://atom.io
+            description: Programming IDE
+            recommend: TRUE
+            status: Open Source
+        -   name: Zotero
+            link: https://www.zotero.org/
+            description: Bibliography/Citation Manager
+            recommend: TRUE
+            status: Commercial
+-   name: Troubleshooting
+    items:
+        -   name: Google
+            link: http://google.com
+            description: Seriously
+            recommend: TRUE
+            status: Online
+        -   name: Stack Overflow
+            link: http://stackoverflow.com/
+            description: Programming and general troubleshooting forum
+            recommend: TRUE
+            status: Online
+        -   name: Digital Humanities Slack Channel
+            link: http://digitalhumanities.slack.com
+            description: Large Slack chat channel of professionals in DH
+            recommend: TRUE
+            status: Online
+        -   name: Python 3 Reference
+            link: https://docs.python.org/3/library/index.html
+            description: Online documentation for Python 3
+            recommend: False
+            status: Online

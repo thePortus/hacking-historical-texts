@@ -63,30 +63,6 @@ Next, I need a short proposal, telling me more about what each group intends to 
 
 ---
 
-## Final Project Duties & Requirements
+## Final Pilot Project Template
 
-### Project Manager
-
-    * Coordinates workflow between group members, assigns tasks
-    * Controls group GitHub project and branch merges
-    * Writes the 'introduction', and 'next steps' portions
-    * Ensures everything is working
-
-### Data Scientist
-
-    * Scrape Data
-    * Scrub/Refine Data
-    * Clarify data categories for team members
-    * Make a 'transparency report', describing their process
-
-### Visualization Expert
-
-    * Performs exploratory visualizations for group members
-    * Produces final visual products
-    * Writes an 'initial findings' and 'problems encountered' reports
-
-### Digital Scholarship Expert
-
-    * Researches relevant digital works/projects
-    * Researches related historical scholarship
-    * Writes a 'digital methods and historical scholarship' section
+To learn more about the final project and get the starting template by [visiting the template repo](https://github.com/usf-portal/hacking-historical-texts)

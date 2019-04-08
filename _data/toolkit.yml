@@ -1,5 +1,10 @@
 -   name: Text Analysis
     items:
+        -   name: Orange
+            link: https://orange.biolab.si/
+            description: Text & data analysis, machine learning, and more
+            recommend: TRUE
+            status: Open Source
         -   name: Overview Docs
             link: https://www.overviewdocs.com/
             description: Text Analysis
@@ -34,6 +39,21 @@
             status: Online/Free
 -   name: Getting/Cleaning Data
     items:
+        -   name: Webscraper.io
+            link: http://webscraper.io/
+            description: Chrome extension to scrape data
+            recommend: TRUE
+            status: Free
+        -   name: OpenRefine
+            link: http://openrefine.org/
+            description: Tools to clean and normalize messy data
+            recommend: True
+            status: Free
+        -   name: Tabula
+            link: http://tabula.technology/
+            description: Tool to easily convert data tables from PDFs into Excel files
+            recommend: True
+            status: Open Source/Free
         -   name: Breve
             link: http://breve.designhumanities.org/
             description: Data Visualization/Cleaning
@@ -45,7 +65,7 @@
             link: http://www.qgis.org/
             description: GIS/Mapping
             recommend: TRUE
-            status: Open Source
+            status: Open Source/Free
         -   name: SketchUp
             link: http://www.qgis.org/
             description: GIS/Mapping

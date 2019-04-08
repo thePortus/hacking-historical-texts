@@ -4,6 +4,8 @@
 
 ![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
 
+**[View this repository on GitHub](https://github.com/usf-portal/hacking-historical-texts/)**
+
 ## Instructor and Author
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
